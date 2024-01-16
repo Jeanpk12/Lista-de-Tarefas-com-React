@@ -1,7 +1,7 @@
 # Lista de Tarefas com React e Typescript
 
 ## Visão Geral
-O TaskManager React é uma aplicação simples de gerenciamento de tarefas construída usando HTML, CSS, TypeScript e React. Permite aos usuários adicionar, remover e marcar tarefas como concluídas. A aplicação oferece uma interface limpa e intuitiva para gerenciar tarefas de forma eficiente.
+A lista de tarefas com React é uma aplicação simples de gerenciamento de tarefas construída usando HTML, CSS, TypeScript e React. Permite aos usuários adicionar e marcar tarefas como concluídas. A aplicação oferece uma interface limpa e intuitiva para gerenciar tarefas de forma eficiente.
 
 ## Funcionalidades
 - **Adição de Tarefas**: Os usuários podem adicionar novas tarefas à lista digitando o nome da tarefa e pressionando a tecla Enter.
