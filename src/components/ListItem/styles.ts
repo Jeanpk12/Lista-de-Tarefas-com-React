@@ -12,7 +12,7 @@ export const Container = styled.div<ContainerProps>`
   border-radius: 10px;
   margin-bottom: 10px;
   align-items: center;
-  font-size: 20px;
+  font-size: 18px;
 
   input {
     width: 25px;
