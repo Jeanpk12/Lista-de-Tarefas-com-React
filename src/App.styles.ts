@@ -6,6 +6,7 @@ export const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
   }
 `;
 
@@ -25,6 +26,7 @@ export const Area = styled.div`
 export const Header = styled.h1`
     margin: 0;
     padding: 0;
+    margin-top: 20px;
     color: #fff;
     text-align: center;
     border-bottom: 1px solid #bb93c6;
